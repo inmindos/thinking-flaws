@@ -17,9 +17,7 @@ The illusion of transparency is commonly prominent in public speakers. The speak
 
 ### Related
 
-[[Bystander effect]]: individuals are less likely to offer help to a victim when there are other people present.
-When confronted with a potential emergency, people typically play it cool, adopt a look of nonchalance, and monitor the reactions of others to determine if a crisis is really at hand. However, because each individual holds back,  sometimes everyone concludes that the situation is not an emergency and hence does not require intervention.
-
+[[Bystander effect]]
 
 
 
