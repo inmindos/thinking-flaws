@@ -8,7 +8,7 @@ We value things much higher if we created it(even partially)
 
 ### Cause
 
-- People feel competent and has evidence of the competency.
+- People feel competent and have evidence of the competency.
 - Feel smart because they saved money by doing some of the work
 
 ### Related
