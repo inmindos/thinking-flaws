@@ -18,4 +18,8 @@ Processing fluency: the ease with which information is processed.
 ### Consequences
 
  Familiarity can overpower rationality and repetitively hearing that a certain fact is wrong can affect the hearer's beliefs.
+ 
+ ### Related
+ 
+ [[Hindsight Bias]]
 
