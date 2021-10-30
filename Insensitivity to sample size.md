@@ -18,7 +18,7 @@ People intuitively judge samples as having similar properties to their populatio
 
 ### Related
 
-[[clustering illusion]]: belief that streaks or clusters in parts of random data are non-random
+[[clustering illusion]]
 
 
 
