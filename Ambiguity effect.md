@@ -13,7 +13,7 @@ We prefer options with known probability over options with unknown probability e
 
 ### Cause
 
-People have a tenancy to avoid options with missing information.
+People have a tendency to avoid options with missing information.
 
 ### Related
 
