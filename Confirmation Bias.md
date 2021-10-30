@@ -1,20 +1,22 @@
 ---
 title: "Confirmation Bias"
-tags: ["permanent-notes", "cognitive-bias","psychology","meta-cognition" ]
-date: 2021-08-06 00:19:00
+tags: ["cognitive-bias","Information-overload","notice-confirmation" ]
+source:"https://en.wikipedia.org/wiki/Confirmation_bias"
 ---
 
-Confirmation bias is the tendency to...
+Confirmation bias is the tendency to search for, interpret favorably, favor, recall data/evidence in a way that confirms or supports one's prior beliefs or values. This effect is stronger for deeply held beliefs, identity topics, or strong emotional triggers.
 
-- search for
-- interpret favorably
-- favor
-- recall information 
- 
-... data/evidence in a way that confirms or supports one's prior beliefs or values.
 
-This reinforces preexisting beliefs - once a belief is formed, people favor information that confirms the belief. And reject evidence that throws doubt on it.
+### Cause
 
-This effect is stronger for deeply held beliefs, identity topics, or strong emotional triggers.
+Current explanations for the bias reveal the limited human capacity to process the complete set of information available, leading to a failure to investigate in a neutral, scientific way. 
 
-Confirmation bias is an implicit tendency to notice information that coincides with our preexisting beliefs and ignore information that doesn't while [[motivated reasoning]] is our tendency to readily accept new information that agrees with our worldview and critically analyze that which doesn't.
+
+### Consequences
+
+Flawed decisions due to confirmation bias have been found in political, organizational, financial and scientific contexts. These biases contribute to overconfidence in personal beliefs and can maintain or strengthen beliefs in the face of contrary evidence. Confirmation bias can play a key role in the propagation of mass delusions and belief in psychics.
+
+
+### Related
+
+[[Illusory correlation]]
