@@ -9,7 +9,7 @@ tags:
 source: "https://en.wikipedia.org/wiki/Mental_accounting"
 ---
 
-People tend to assign subjective value to money - this is suseptable to biases, thinking flaws. Eg. If you find 100$ on ground, you treat yourself to an expensive dinner - but if you had worked to get that money, you would have saved it.
+People tend to assign subjective value to money - this is susceptible to biases, thinking flaws. Eg. If you find 100$ on the ground, you treat yourself to an expensive dinner - but if you had worked to get that money, you would have saved it.
 
 ### Cause
 
