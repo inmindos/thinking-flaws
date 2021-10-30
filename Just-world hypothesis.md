@@ -19,3 +19,7 @@ The belief in a just world is crucially important for people to maintain for the
 
 Individuals experience less personal vulnerability because they do not believe they have done anything to deserve or cause negative outcomes.
 
+### Related
+
+[[Self serving bias]]
+
