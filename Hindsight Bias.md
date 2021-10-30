@@ -4,7 +4,7 @@ tags: [ "cognitive-bias","not-enough-meaning","cbias-project-mind-state"]
 source: "https://en.wikipedia.org/wiki/Hindsight_bias"
 ---
 
-People tend to think that events could have been easily predictable AFTER the outcome is clear. The certainty that people attribute to their predictions are much higher that it actually is. Also know as "Knew-it-all-along" phenomena.
+People tend to think that events could have been easily predictable AFTER the outcome is clear. The certainty that people attribute to their predictions is much higher that it actually is. Also know as "Knew-it-all-along" phenomena.
 
 ### Cause
 
