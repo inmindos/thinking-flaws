@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "0274375fc57d334e",
+    "type": "split",
+    "children": [
+      {
+        "id": "43cc6df557e57e36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "885cc8e1825ecc8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39fe39e58b4871a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "551b25c6a5bdda54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "28eba271b79440f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "break",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "869910e6a60f6d61",
+    "type": "split",
+    "children": [
+      {
+        "id": "549f2abbce50b4c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0fc404ddacfa472",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ffefb3fc9a0bf27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "43cc6df557e57e36",
+  "lastOpenFiles": [
+    "Index.md",
+    "Planning fallacy.md",
+    "Halo effect.md",
+    "Zero sum bias.md",
+    "Zero risk bias.md",
+    "Well-traveled road effect.md",
+    "Weber–Fechner law.md",
+    "Von Restorff effect.md",
+    "Unit bias.md",
+    "Ultimate attribution error.md"
+  ]
+}
