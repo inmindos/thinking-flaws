@@ -1,12 +1,7 @@
 ---
-title: "Isolation Effect"
-tags:
-  [
-    "cognitive-bias",
-    "cbias-information-overload",
-    "cbias-notice-specific"
-  ]
-aliases: "Von Restorff effect"
+title: "Von Restorff effect"
+tags: ["cognitive-bias","cbias-information-overload","cbias-notice-specific"]
+aliases: ["Isolation Effect"]
 source: "https://en.wikipedia.org/wiki/Von_Restorff_effect"
 ---
 
@@ -16,5 +11,3 @@ If there are multiple similar stimuli, we remember the one that differs from the
 
 - The total-time hypothesis suggests that isolated items are rehearsed for a longer time in working memory compared to non-isolated items.
 - Subjects could consider the isolated items to be in their own special category in a free-recall task, making them easier to recollect.
-
-

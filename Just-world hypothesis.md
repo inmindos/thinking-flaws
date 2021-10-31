@@ -1,11 +1,6 @@
 ---
 title: "Just-world hypothesis"
-tags:
-  [
-    "cognitive-bias",
-    "cbias-need-meaning",
-    "cbias-meaning-from-stereotypes"
-  ]
+tags: ["cognitive-bias", "cbias-need-meaning", "cbias-meaning-from-stereotypes"]
 source: "https://en.wikipedia.org/wiki/Just-world_hypothesis"
 ---
 

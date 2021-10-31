@@ -1,7 +1,7 @@
 ---
 title: "Moral credential effect"
 tags: ["cognitive-bias","cbias-need-meaning","cbias-meaning-from-stereotypes"]
-aliases: "Self-licensing"
+aliases: ["Self-licensing"]
 source: "https://en.wikipedia.org/wiki/Self-licensing"
 ---
 

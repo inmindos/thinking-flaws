@@ -1,12 +1,10 @@
 ---
 title: "Availability Heuristic"
-tags: [ "cognitive-bias","Information-overload","notice-primed-repeated" ]
-source: "[[Thinking Fast and Slow, Blinkist]]", "https://en.wikipedia.org/wiki/Availability_heuristic"
+tags: [ "cognitive-bias","cbias-info-overload","cbias-notice-primed-repeated", "heuristic" ]
+source: "[[Thinking Fast and Slow, Blinkist]]"
 ---
 
 You overestimate the probability of something that you hear more often/remember easily. Eg. We think accidents kill more people than strokes.
-
-It is a [[Thinking Fast and Slow|System 1]] mental shortcut. 
 
 ### Cause
 

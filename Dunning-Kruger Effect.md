@@ -1,14 +1,6 @@
 ---
-title: "Dunning–Kruger Effect"
-tags:
-  [
-    "psychology",
-    "permanent-notes",
-    "cognition",
-    "cognitive-bias",
-    "cbias-act-fast-important",
-    "cbias-act-fast"
-  ]
+title: "Dunning-Kruger Effect"
+tags: ["psychology","permanent-notes","cognition","cognitive-bias","cbias-act-fast-important","cbias-act-fast"]
 date: 2021-01-05 15:15:51
 ---
 

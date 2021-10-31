@@ -1,6 +1,6 @@
 ---
 title: "Social-desirability Bias"
-tags: [ "cognitive-bias", "response-bias" ]
+tags: [ "cognitive-bias", "response-bias", "cbias-act-fast", "cbias-act-fast-important"]
 source: "https://en.wikipedia.org/wiki/Social-desirability_bias"
 ---
 

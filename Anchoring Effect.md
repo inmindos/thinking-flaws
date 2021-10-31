@@ -1,11 +1,6 @@
 ---
 title: "Anchoring Effect"
-tags:
-  [
-    "cognitive-bias",
-    "cbias-information-overload",
-    "cbias-notice-change"
-  ]
+tags: [ "cognitive-bias", "cbias-information-overload", "cbias-notice-change"]
 source: "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)"
 ---
 

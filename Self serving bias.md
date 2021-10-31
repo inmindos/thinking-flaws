@@ -1,11 +1,6 @@
 ---
 title: "Self serving bias"
-tags:
-  [
-    "cognitive-bias",
-    "cbias-act-fast-important",
-    "cbias-act-fast"
-  ]
+tags: ["cognitive-bias","cbias-act-fast-important","cbias-act-fast"]
 source: "https://en.wikipedia.org/wiki/Self-serving_bias"
 ---
 

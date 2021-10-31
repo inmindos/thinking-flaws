@@ -1,7 +1,7 @@
 ---
 title: "False memory"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-memory-edit", "memory" ]
-aliases: "Confabulation"
+aliases: ["Confabulation"]
 source: "https://en.wikipedia.org/wiki/Confabulation"
 ---
 

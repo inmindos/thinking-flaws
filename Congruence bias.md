@@ -1,11 +1,6 @@
 ---
 title: "Congruence bias"
-tags:
-  [
-    "cognitive-bias",
-    "cbias-information-overload",
-    "cbias-notice-confirmation"
-  ]
+tags: ["cognitive-bias","cbias-information-overload","cbias-notice-confirmation"]
 source: "https://en.wikipedia.org/wiki/Congruence_bias"
 ---
 
@@ -18,10 +13,3 @@ Failure to consider alternative hypotheses.
 ### Related
 
 - [[Confirmation Bias]]
-
-
-
-
-
-
-

@@ -2,7 +2,7 @@
 title: "Implicit stereotype"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-memory-general" ]
 source: "https://en.wikipedia.org/wiki/Implicit_stereotype"
-aliases: "Implicit Bias"
+aliases: ["Implicit Bias"]
 ---
 
 We assign certain qualities to a member of an out group. This happens automatically and without thought. This can be because of our own experience or learned association of qualities to out-group qualifiers(eg. race, class, gender, etc.)

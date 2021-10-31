@@ -1,6 +1,6 @@
 ---
 title: "Hindsight Bias"
-tags: [ "cognitive-bias","not-enough-meaning","cbias-project-mind-state"]
+tags: [ "cognitive-bias","cbias-not-enough-meaning","cbias-project-mind-state"]
 source: "https://en.wikipedia.org/wiki/Hindsight_bias"
 ---
 
@@ -10,7 +10,6 @@ People tend to think that events could have been easily predictable AFTER the ou
 
 Hindsight bias has been found to be more likely occur when the outcome of an event is negative rather than positive.
 This is a phenomenon consistent with the general tendency for people to pay more attention to negative outcomes of events. Hindsight bias is also affected by the severity of the negative outcome.
-
 
 ### Consequences
 

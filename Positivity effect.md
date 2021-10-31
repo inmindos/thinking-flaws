@@ -1,11 +1,6 @@
 ---
 title: "Positivity effect"
-tags:
-  [
-    "cognitive-bias",
-    "cbias-need-meaning",
-    "cbias-known-things-better"
-  ]
+tags: [ "cognitive-bias", "cbias-need-meaning", "cbias-known-things-better" ]
 source: "https://en.wikipedia.org/wiki/Positivity_effect"
 ---
 

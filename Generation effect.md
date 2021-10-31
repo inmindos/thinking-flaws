@@ -8,4 +8,4 @@ We remember things better if our own mind makes it up rather than when we just r
 
 ### Consequences
 
-Used in techniques like [[Zettelkasten]] to improve your recall.
+Used in techniques like Zettelkasten to improve your recall.

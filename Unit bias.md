@@ -16,4 +16,4 @@ You can decide to use smaller units to cut down on consumption.
 ### Consequences
 
 - To increase consumption, companies have increased the unit size given. 
-- Digital Apps have used [[Pseudo Sets - Behavior Push|Pseudo Sets]] to push people to do more.
+- Digital Apps have used Pseudo Sets of related actions(collect 10 stones) to push people to do more.
