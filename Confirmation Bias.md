@@ -2,6 +2,7 @@
 title: "Confirmation Bias"
 tags: ["cognitive-bias","Information-overload","notice-confirmation" ]
 source: "https://en.wikipedia.org/wiki/Confirmation_bias"
+excerpt: "Confirmation bias is the tendency to search for, interpret favorably, favor, recall data/evidence in a way that confirms or supports one's prior beliefs or values."
 ---
 
 Confirmation bias is the tendency to search for, interpret favorably, favor, recall data/evidence in a way that confirms or supports one's prior beliefs or values. This effect is stronger for deeply held beliefs, identity topics, or strong emotional triggers.

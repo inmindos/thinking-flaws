@@ -7,6 +7,7 @@ tags:
     "cbias-notice-specific"
   ]
 source: "https://en.wikipedia.org/wiki/Negativity_bias"
+excerpt: "Negative stimuli have bigger impact on the mental state."
 ---
 
 Negative stimuli have bigger impact on the mental state

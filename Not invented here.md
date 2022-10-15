@@ -7,6 +7,7 @@ tags:
     "cbias-known-things-better"
   ]
 source: "https://en.wikipedia.org/wiki/Not_invented_here"
+excerpt: "Tendency to avoid things with an external origin."
 ---
 
 Tendency to avoid things with an external origin.

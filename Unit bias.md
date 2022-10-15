@@ -2,6 +2,7 @@
 title: "Unit bias"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-finish" ]
 source: "https://lirio.com/blog/unit-bias-lirio-bias-brief/"
+excerpt: "We want to finish a unit of anything we are consuming - we don't want to stop in the middle."
 ---
 
 We want to finish a unit of anything we are consuming - we don't want to stop in the middle.

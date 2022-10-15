@@ -2,6 +2,7 @@
 title: "Moral luck"
 tags: [ "cognitive-bias","not-enough-meaning","cbias-project-mind-state" ]
 source: "https://en.wikipedia.org/wiki/Moral_luck"
+excerpt: "Assigning praise or blame of an action based on outcome even if its not fully in their control."
 ---
 
 Assigning praise or blame of an action based on outcome even if its not fully in their control. 

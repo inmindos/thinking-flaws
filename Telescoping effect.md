@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Telescoping_effect"
+excerpt: "Events in the past or future seems more distant(backward telescoping/time expansion) or nearer(forward telescoping) than they actually are."
 ---
 
 Events in the past or future seems more distant(backward telescoping/time expansion) or nearer(forward telescoping) than they actually are. Events more than 3 years ago will have forward telescoping - and events closer than 3 years ago will have backward telescoping.

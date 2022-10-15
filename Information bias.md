@@ -7,6 +7,7 @@ tags:
     "cbias-prefer-simple"
   ]
 source: "https://en.wikipedia.org/wiki/Information_bias_(psychology)"
+excerpt: "We want to search for information even when it does not affect the decision."
 ---
 
 We want to search for information even when it does not affect the decision. There are lots of cases where we can decide even using limited information - but we believe that more information we have, the better. 

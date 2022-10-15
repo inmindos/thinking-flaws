@@ -7,6 +7,7 @@ tags:
     "cbias-notice-specific"
   ]
 source: "https://en.wikipedia.org/wiki/Omission_bias"
+excerpt: "We favor an act of omission/inaction over commission/action."
 ---
 
 We favor an act of omission/inaction over commission/action.

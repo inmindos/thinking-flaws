@@ -2,6 +2,7 @@
 title: "Misattribution of memory"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-memory-edit" ]
 source: "https://en.wikipedia.org/wiki/Misattribution_of_memory"
+excerpt: "We tend to wrongly identify the source of a memory at point of recall."
 ---
 
 We tend to wrongly identify the source of a memory at point of recall. This has 3 categories...

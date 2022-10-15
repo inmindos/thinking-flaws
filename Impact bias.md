@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Impact_bias"
+excerpt: "We **overestimate** duration and intensity of future emotional states."
 ---
 
 We **overestimate** duration and intensity of future emotional states. Eg. If we breakup, it will kill me.

@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Anthropomorphism#Psychology_of_anthropomorphism"
+excerpt: "Assigning human traits, attributes, emotions or agency to non-human things."
 ---
 
 Assigning human traits, attributes, emotions or agency to non-human things.

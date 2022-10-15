@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Illusion_of_validity"
+excerpt: "Overestimation of ability to interpret and predict outcome when analyzing data that shows a consistent pattern."
 ---
 
 Overestimation of ability to interpret and predict outcome when analyzing data that shows a consistent pattern. If we feel it tells a coherent story, we are very confident of our prediction.

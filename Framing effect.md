@@ -7,6 +7,7 @@ tags:
     "cbias-notice-change"
   ]
 source: "https://en.wikipedia.org/wiki/Framing_effect_%28psychology%29"
+excerpt: "People's choices can change based on how the question is framed or worded."
 ---
 
 People's choices can change based on how the question is framed or worded. 

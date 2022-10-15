@@ -2,6 +2,7 @@
 title: "Availability Heuristic"
 tags: [ "cognitive-bias","cbias-info-overload","cbias-notice-primed-repeated", "heuristic" ]
 source: "[[Thinking Fast and Slow, Blinkist]]"
+excerpt: "You overestimate the probability of something that you hear more often/remember easily."
 ---
 
 You overestimate the probability of something that you hear more often/remember easily. Eg. We think accidents kill more people than strokes.

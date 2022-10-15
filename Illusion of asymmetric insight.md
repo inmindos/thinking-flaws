@@ -7,6 +7,7 @@ tags:
     "cbias-guess-thoughts"
   ]
 source: "https://en.wikipedia.org/wiki/Illusion_of_asymmetric_insight"
+excerpt: "Belief that we know other people better than the other person knows us."
 ---
 
 Belief that we know other people better than the other person knows us.

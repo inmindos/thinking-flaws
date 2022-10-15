@@ -3,6 +3,7 @@ title: "Risk compensation"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-act-fast-important" ]
 source: "https://en.wikipedia.org/wiki/Risk_compensation"
 aliases: ["Peltzman effect"]
+excerpt: "We adjust behavior according to perceived risk - we are more risk taking when we feel protected, and more careful when we sense greater risk."
 ---
 
 We adjust behavior according to perceived risk - we are more risk taking when we feel protected, and more careful when we sense greater risk.

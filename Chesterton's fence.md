@@ -2,6 +2,7 @@
 title: "Chesterton's fence"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-autonomy" ]
 source: "https://en.wikipedia.org/wiki/Wikipedia:Chesterton's_fence"
+excerpt: "Ideally, we should not change something until we understand the purpose behind it."
 ---
 
 Ideally, we should not change something until we understand the purpose behind it.

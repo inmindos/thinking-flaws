@@ -2,6 +2,7 @@
 title: "Misinformation effect"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-reduce-to-key", "memory" ]
 source: "https://en.wikipedia.org/wiki/Misinformation_effect"
+excerpt: "Our memory can change and become less accurate based on information we get after the event."
 ---
 
 Our memory can change and become less accurate based on information we get after the event. 

@@ -3,6 +3,7 @@ title: "Von Restorff effect"
 tags: ["cognitive-bias","cbias-information-overload","cbias-notice-specific"]
 aliases: ["Isolation Effect"]
 source: "https://en.wikipedia.org/wiki/Von_Restorff_effect"
+excerpt: "If there are multiple similar stimuli, we remember the one that differs from the rest."
 ---
 
 If there are multiple similar stimuli, we remember the one that differs from the rest. For example, if a person examines a shopping list with one item highlighted in bright green, he or she will be more likely to remember the highlighted item than any of the others.

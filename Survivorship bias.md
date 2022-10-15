@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Survivorship_bias"
+excerpt: "Concentrating on the people/things that got past a selection point."
 ---
 
 Concentrating on the people/things that got past a selection point. Eg. modeling your life after successful people.

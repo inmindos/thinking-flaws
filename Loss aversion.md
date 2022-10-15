@@ -2,6 +2,7 @@
 title: "Loss aversion"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-finish" ]
 source: "https://en.wikipedia.org/wiki/Loss_aversion"
+excerpt: "We prefer to avoid making a loss over making a profit of the same value."
 ---
 
 We prefer to avoid making a loss over making a profit of the same value.

@@ -7,6 +7,7 @@ tags:
     "cbias-guess-thoughts"
   ]
 source: "https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.79.5.690"
+excerpt: "A belief that good/bad things happen to us because of external influences rather than personal actions."
 ---
 
 A belief that good/bad things happen to us because of external influences rather than personal actions. Eg. I got good marks because the teacher likes me.

@@ -3,6 +3,7 @@ title: "Belief bias"
 tags: [ "cognitive-bias", "cbias-avoid-irreversible", "cbias-prefer-simple" ]
 source: "https://en.wikipedia.org/wiki/Belief_bias"
 aliases: ["Religious Bias"]
+excerpt: "We judge arguments based on the probability of the conclusion rather than how strongly the argument supports the conclusion."
 ---
 
 We judge arguments based on the probability of the conclusion rather than how strongly the argument supports the conclusion. If an argument supports a conclusion that aligns with our pre-existing beliefs, we are more likely to support it.

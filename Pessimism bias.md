@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Optimism_bias#Pessimism_bias"
+excerpt: "We exaggerate the probability of bad things happening to us."
 ---
 
 We exaggerate the probability of bad things happening to us. Opposite of [[Optimism Bias]].

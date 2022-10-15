@@ -8,6 +8,7 @@ tags:
     "cbias-notice-specific"
   ]
 source: "https://en.wikipedia.org/wiki/Bizarreness_effect"
+excerpt: "We remember bizarre material better."
 ---
 
 We remember bizarre material better.

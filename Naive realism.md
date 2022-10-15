@@ -7,6 +7,7 @@ tags:
     "cbias-notice-others-flaws"
   ]
 source: "https://en.wikipedia.org/wiki/Na%C3%AFve_realism_%28psychology%29"
+excerpt: "Belief that our view of the world is objective, and people who disagree are irrational/biased/misinformed."
 ---
 
 Belief that our view of the world is objective, and people who disagree are irrational/biased/misinformed.

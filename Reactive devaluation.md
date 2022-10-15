@@ -1,12 +1,11 @@
 ---
 title: "Reactive devaluation"
 tags:
-  [
-    "cognitive-bias",
-    "cbias-need-meaning",
-    "cbias-known-things-better"
-  ]
+  - cognitive-bias
+  - cbias-need-meaning
+  - cbias-known-things-better
 source: "https://en.wikipedia.org/wiki/Reactive_devaluation"
+excerpt: "Tendency to devalue ideas/proposals that comes from an 'enemy'."
 ---
 
 Tendency to devalue ideas/proposals that comes from an "enemy".

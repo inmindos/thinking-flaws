@@ -7,9 +7,10 @@ tags:
     "cbias-notice-confirmation"
   ]
 source: "https://en.wikipedia.org/wiki/Subjective_validation"
+excerpt: "You believe a hypothesis because it has personal meaning/significance to you."
 ---
 
-Believes hypothesis because it has personal meaning/significance to them.
+You believe a hypothesis because it has personal meaning/significance to you.
 
 ### Consequences
 

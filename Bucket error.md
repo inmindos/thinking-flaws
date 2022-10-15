@@ -7,6 +7,7 @@ tags:
     "cbias-notice-confirmation"
   ]
 source: "https://www.lesswrong.com/posts/EEv9JeuY5xfuDDSgF/flinching-away-from-truth-is-often-about-protecting-the"
+excerpt: "Lumping a decision to a related but not necessarily causing result."
 ---
 
 Lumping a decision to a related but not necessarily causing result. Eg. I miss-spelled a word - so I cannot be a writer.

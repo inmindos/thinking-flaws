@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Time-saving_bias"
+excerpt: "We underestimate time saved when moving from a relatively smaller speed to higher speed. Also, we overestimate time saved when moving from a relatively faster speed to even faster speed."
 ---
 
 We underestimate time saved when moving from a relatively smaller speed to higher speed(eg. 30kmph to 40kmph). Also, we overestimate time saved when moving from a relatively faster speed to even faster speed(eg. 70-100kmph).

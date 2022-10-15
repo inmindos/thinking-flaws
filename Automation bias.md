@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-stereotypes"
   ]
 source: "https://en.wikipedia.org/wiki/Automation_bias"
+excerpt: "Tendency to believe decisions from an automated decision making system have more accuracy. And even ignore contradictory information made without automation."
 ---
 
 Tendency to believe decisions from an automated decision making system have more accuracy. And even ignore contradictory information made without automation.

@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Hot_hand"
+excerpt: "Belief that someone who has been successful will be more likely to be successful in future attempts."
 ---
 
 Belief that someone who has been successful will be more likely to be successful in future attempts. The concept is often applied to sports and skill-based tasks.

@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://yourlogicalfallacyis.com/anecdotal"
+excerpt: "We believe that personal experience/anecdotal examples trumps data or logical argument."
 ---
 
 We believe that personal experience/anecdotal examples trumps data or logical argument. Eg.,if you know someone who smokes and lived to a ripe old age, you might be less likely to take seriously the health risks of smoking.

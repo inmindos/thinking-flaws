@@ -7,6 +7,7 @@ tags:
     "cbias-act-fast"
   ]
 source: "https://en.wikipedia.org/wiki/False_consensus_effect"
+excerpt: "We think our beliefs, behaviors, personal qualities are the norm."
 ---
 
 We think our beliefs, behaviors, personal qualities are the norm. 

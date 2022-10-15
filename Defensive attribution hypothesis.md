@@ -2,6 +2,7 @@
 title: "Defensive attribution hypothesis"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-act-fast-important", "attribution" ]
 source: "https://en.wikipedia.org/wiki/Defensive_attribution_hypothesis"
+excerpt: "We tend to believe theories about the cause of a mishap in a way that minimizes our own blame or threat in that mishap."
 ---
 
 We tend to believe theories about the cause of a mishap in a way that minimizes our own blame or threat in that mishap.

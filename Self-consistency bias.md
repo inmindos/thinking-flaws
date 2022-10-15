@@ -2,6 +2,7 @@
 title: "Self-consistency bias"
 tags: [ "cognitive-bias","not-enough-meaning","cbias-project-mind-state", "memory" ]
 source: "https://sciencebeta.com/self-consistency-bias/"
+excerpt: "We believe that we are consistent in our beliefs, behaviors, options, attitudes, etc."
 ---
 
 We believe that we are consistent in our beliefs, behaviors, options, attitudes, etc. This is a memory bias. 

@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-stereotypes"
   ]
 source: "https://en.wikipedia.org/wiki/Essentialism"
+excerpt: "Philosophical view that all things have a set of properties that are necessary to their identity."
 ---
 
 Philosophical view that all things have a set of properties that are necessary to their identity. Comes from Plato - all things have an "essence".

@@ -7,6 +7,7 @@ tags:
     "cbias-notice-others-flaws"
   ]
 source: "https://en.wikipedia.org/wiki/Na%C3%AFve_cynicism"
+excerpt: "Expecting others to be biased all the time."
 ---
 
 Expecting others to be biased all the time.

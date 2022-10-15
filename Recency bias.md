@@ -7,6 +7,7 @@ tags:
     "cbias-notice-primed-repeated"
   ]
 source: "https://en.wikipedia.org/wiki/Recency_bias"
+excerpt: "More weightage is given to a recent event/data/evidence when compared to past events/data/evidence."
 ---
 
 More weightage is given to a recent event/data/evidence when compared to past events/data/evidence. Eg., it convinces us that a rising market or individual stock will continue to appreciate, or that a declining market or stock is likely to keep falling. 

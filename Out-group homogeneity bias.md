@@ -7,6 +7,7 @@ tags:
     "cbias-known-things-better"
   ]
 source: "https://en.wikipedia.org/wiki/Out-group_homogeneity"
+excerpt: "The belief that the people in the out-group are very similar to each other."
 ---
 
 The belief that the people in the out-group are very similar to each other. "They are all alike; we are diverse."

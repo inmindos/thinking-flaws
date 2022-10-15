@@ -2,6 +2,7 @@
 title: "Delmore effect"
 tags: [ "cognitive-bias", "cbias-avoid-irreversible", "cbias-prefer-simple" ]
 source: "https://bias.transhumanity.net/delmore-effect/"
+excerpt: "We tend to have more defined and articulated goals about parts of our lives which has lower priority."
 ---
 
 We tend to have more defined and articulated goals about parts of our lives which has lower priority. Higher priority parts will have generic goals - if any.

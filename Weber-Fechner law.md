@@ -7,6 +7,7 @@ tags:
     "cbias-notice-change"
   ]
 source: "https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law"
+excerpt: "Perceived difference is not the same as actual difference."
 ---
 
 Perceived difference is not the same as actual difference. We think 10 to 20 is a bigger change than 1000 to 1010.

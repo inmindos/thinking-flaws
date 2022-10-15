@@ -2,6 +2,7 @@
 title: "Halo effect"
 tags: [ "cognitive-bias", "cbias-need-meaning", "cbias-known-things-better" ]
 source: "https://en.wikipedia.org/wiki/Halo_effect"
+excerpt: "Tendency to transfer the good impression of a person/ company/ brand/ etc in one context to things they recommend in another context."
 ---
 
 Tendency to transfer the good impression of a person/ company/ brand/ etc in one context to things they recommend in another context. 

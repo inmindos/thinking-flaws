@@ -7,6 +7,7 @@ tags:
     "cbias-prefer-simple"
   ]
 source: "https://en.wikipedia.org/wiki/Rhyme-as-reason_effect"
+excerpt: "We believe that proverbs, sayings etc are more accurate if it rhymes."
 ---
 
 We believe that proverbs, sayings etc are more accurate if it rhymes.

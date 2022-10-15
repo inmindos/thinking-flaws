@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Rosy_retrospection"
+excerpt: "We judge past events more positively than we do the present."
 ---
 
 We judge past events more positively than we do the present. Possibly caused by nostalgia.

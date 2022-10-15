@@ -2,6 +2,7 @@
 title: "Effort justification"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-act-fast-important" ]
 source: "https://en.wikipedia.org/wiki/Effort_justification"
+excerpt: "If we put in a lot of effort into something, its value will go up in our mind."
 ---
 
 If we put in a lot of effort into something, its value will go up in our mind.

@@ -7,6 +7,7 @@ tags:
     "cbias-notice-primed-repeated"
   ]
 source: "https://en.wikipedia.org/wiki/Illusory_truth_effect"
+excerpt: "We believe incorrect information to be correct after repeated exposure."
 ---
 
 We believe incorrect information to be correct after repeated exposure. Eg. Advertising, Propaganda

@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Base_rate_fallacy"
+excerpt: "We tend to overvalue the specific information - rather than integrating it with general information like the base rate."
 ---
 
 We tend to overvalue the specific information - rather than integrating it with general information like the base rate. 

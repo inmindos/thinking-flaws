@@ -7,6 +7,7 @@ tags:
     "cbias-prefer-simple"
   ]
 source: "https://en.wikipedia.org/wiki/Less-is-better_effect"
+excerpt: " lesser option is preferred when evaluated separately."
 ---
 
 A lesser option is preferred when evaluated separately. But when evaluated together, this effect disappears.

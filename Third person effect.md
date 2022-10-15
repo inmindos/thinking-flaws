@@ -8,9 +8,10 @@ tags:
   ]
 alias: [ "Third-person perception", "Web Third-person effect" ]
 source: "https://en.wikipedia.org/wiki/Third-person_effect"
+excerpt: "We think that mass media affects other people more than it affects us."
 ---
 
-We think that mass media effects other people more than it effects us. 
+We think that mass media affects other people more than it affects us. 
 
 ### Cause
 

@@ -7,6 +7,7 @@ tags:
     "cbias-notice-primed-repeated"
   ]
 source: "https://en.wikipedia.org/wiki/Attentional_bias"
+excerpt: "What we believe/want influences what we focus on/notice."
 ---
 
 What we believe/want influences what we focus on/notice. Eg. people addicted to smoking are more attentive to smoking cues.

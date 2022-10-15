@@ -7,6 +7,7 @@ tags:
     "cbias-notice-specific"
   ]
 source: "https://en.wikipedia.org/wiki/Publication_bias"
+excerpt: "Bias that favors positive results in published academic research."
 ---
 
 Bias that favors positive results in published academic research

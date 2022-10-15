@@ -7,6 +7,7 @@ tags:
     "cbias-guess-thoughts"
   ]
 source: "https://en.wikipedia.org/wiki/Illusion_of_transparency"
+excerpt: "We think other people can understand our mental state fairly accurately."
 ---
 
 We think other people can understand our mental state fairly accurately. And we think we are very accurate about our guess of another person's mental state.

@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "http://jesusgilhernandez.com/2013/12/05/the-swimmers-body-illusion/"
+excerpt: "People confuse selection factors with results."
 ---
 
 People confuse selection factors with results. Eg. People in entertainment industry did not became attractive with effort - attractiveness is a selection criteria for the industry.

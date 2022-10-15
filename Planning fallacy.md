@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Planning_fallacy"
+excerpt: "We underestimate time required to finish a task."
 ---
 
 We underestimate time required to finish a task. Result of [[Optimism Bias]]. This only affects predictions of your own tasks. When predicting for others, we tend to have a [[Pessimism bias]]. 

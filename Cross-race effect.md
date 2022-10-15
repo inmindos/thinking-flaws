@@ -7,6 +7,7 @@ tags:
     "cbias-known-things-better"
   ]
 source: "https://en.wikipedia.org/wiki/Cross-race_effect"
+excerpt: "Tendency to recognize faces from your own race more easily when compared to recognizing faces from other races."
 ---
 
 Tendency to recognize faces from your own race more easily when compared to recognizing faces from other races.

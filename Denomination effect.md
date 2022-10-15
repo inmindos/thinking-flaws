@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Denomination_effect"
+excerpt: "Less likely to spend a large denomination currency than the equal value in smaller notes."
 ---
 
 Less likely to spend a large denomination currency than the equal value in smaller notes.

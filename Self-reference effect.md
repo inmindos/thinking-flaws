@@ -2,6 +2,7 @@
 title: "Self-reference effect"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-memory-experience", "memory" ]
 source: "https://en.wikipedia.org/wiki/Self-reference_effect"
+excerpt: "We remember things better if we are affected by the information."
 ---
 
 We remember things better if we are affected by the information.

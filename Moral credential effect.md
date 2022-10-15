@@ -3,6 +3,7 @@ title: "Moral credential effect"
 tags: ["cognitive-bias","cbias-need-meaning","cbias-meaning-from-stereotypes"]
 aliases: ["Self-licensing"]
 source: "https://en.wikipedia.org/wiki/Self-licensing"
+excerpt: "A previous 'good' behavior will make it easier to do 'bad' behavior."
 ---
 
 A previous "good" behavior will make it easier to do "bad" behavior. Eg. I just exercised, so I can have a pizza.

@@ -2,6 +2,7 @@
 title: "Bystander effect"
 tags: [ "cognitive-bias","cbias-not-enough-meaning","cbias-guess-thoughts" ]
 source: "https://en.wikipedia.org/wiki/Bystander_effect"
+excerpt: "Individuals are less likely to offer help to a victim when there are other people present."
 ---
 
 Individuals are less likely to offer help to a victim when there are other people present.

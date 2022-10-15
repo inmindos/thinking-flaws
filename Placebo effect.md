@@ -2,6 +2,7 @@
 title: "Placebo effect"
 tags: ["cognitive-bias","cbias-need-meaning","cbias-meaning-from-stereotypes"]
 source: "https://en.wikipedia.org/wiki/Placebo"
+excerpt: "An inert pill can cure health issues if the patient believes that it will."
 ---
 
 An inert pill can cure health issues if the patient believes that it will.

@@ -2,6 +2,7 @@
 title: "Illusory superiority"
 tags: ["cognitive-bias","cbias-act-fast-important","cbias-act-fast"]
 source: "https://en.wikipedia.org/wiki/Illusory_superiority"
+excerpt: "We overestimate our own qualities and abilities when compared to other people."
 ---
 
 We overestimate our own qualities and abilities when compared to other people. 

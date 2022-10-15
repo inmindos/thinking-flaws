@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "0274375fc57d334e",
+    "id": "76db4943e972a9c2",
     "type": "split",
     "children": [
       {
-        "id": "43cc6df557e57e36",
+        "id": "6522245d2dfd70b1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Index.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "885cc8e1825ecc8f",
+    "id": "02f340e0f0afa0b5",
     "type": "split",
     "children": [
       {
-        "id": "b39fe39e58b4871a",
+        "id": "783f02536b5ac9e8",
         "type": "tabs",
         "children": [
           {
-            "id": "551b25c6a5bdda54",
+            "id": "d64f08ce7b6e52fd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +31,12 @@
             }
           },
           {
-            "id": "28eba271b79440f0",
+            "id": "01544ba099b5c09c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "break",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "869910e6a60f6d61",
+    "id": "df554b0c252addbd",
     "type": "split",
     "children": [
       {
-        "id": "549f2abbce50b4c3",
+        "id": "85b1e76562261610",
         "type": "tabs",
         "children": [
           {
-            "id": "f0fc404ddacfa472",
+            "id": "9edc8c8c713bc2c9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +76,7 @@
             }
           },
           {
-            "id": "4ffefb3fc9a0bf27",
+            "id": "f9b74d3e49036270",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -90,14 +86,16 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 546
   },
-  "active": "43cc6df557e57e36",
+  "active": "6522245d2dfd70b1",
   "lastOpenFiles": [
+    "Abilene paradox.md",
     "Index.md",
     "Planning fallacy.md",
     "Halo effect.md",
@@ -106,7 +104,6 @@
     "Well-traveled road effect.md",
     "Weber–Fechner law.md",
     "Von Restorff effect.md",
-    "Unit bias.md",
-    "Ultimate attribution error.md"
+    "Unit bias.md"
   ]
 }

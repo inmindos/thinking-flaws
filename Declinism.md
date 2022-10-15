@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Declinism"
+excerpt: "Belief that a society or institution is becoming worse over time."
 ---
 
 Belief that a society or institution is becoming worse over time. That the past is better than the future.

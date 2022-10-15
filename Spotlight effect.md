@@ -7,6 +7,7 @@ tags:
     "cbias-guess-thoughts"
   ]
 source: "https://en.wikipedia.org/wiki/Spotlight_effect"
+excerpt: "We think we are noticed/thought about by others way more than we actually are."
 ---
 
 We think we are noticed/thought about by others way more than we actually are.

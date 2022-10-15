@@ -7,6 +7,7 @@ tags:
     "behavioral-economics"
   ]
 source: "https://en.wikipedia.org/wiki/Prospect_theory"
+excerpt: "We prefer to avoid making a loss over making a profit of the same value."
 ---
 
 We prefer to avoid making a loss over making a profit of the same value.

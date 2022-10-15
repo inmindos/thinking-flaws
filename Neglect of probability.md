@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Neglect_of_probability"
+excerpt: "Tendency to ignore probability when making decisions in uncertain conditions."
 ---
 
 Tendency to ignore probability when making decisions in uncertain conditions. Small risks are either ignored or over exaggerated. Eg. Risk of death due to nuclear power plant failure.

@@ -7,6 +7,8 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two"
+excerpt: "Number of items that can be held in short term memory: 7 +/- 2
+"
 ---
 
 Number of items that can be held in short term memory: 7 +/- 2

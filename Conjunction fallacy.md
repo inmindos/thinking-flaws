@@ -3,6 +3,7 @@ title: "Conjunction fallacy"
 tags: ["cognitive-bias","cbias-avoid-irreversible","cbias-prefer-simple"]
 source: "https://en.wikipedia.org/wiki/Conjunction_fallacy"
 aliases: ["Linda problem"]
+excerpt: "We think that specific conditions are more probable than a single general condition."
 ---
 
 We think that specific conditions are more probable than a single general condition.

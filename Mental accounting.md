@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Mental_accounting"
+excerpt: "People tend to assign subjective value to money - this is susceptible to biases, thinking flaws."
 ---
 
 People tend to assign subjective value to money - this is susceptible to biases, thinking flaws. Eg. If you find 100$ on the ground, you treat yourself to an expensive dinner - but if you had worked to get that money, you would have saved it.

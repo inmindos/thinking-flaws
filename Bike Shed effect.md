@@ -3,6 +3,7 @@ title: "Bike shed effect"
 tags: [ "cognitive-bias", "cbias-avoid-irreversible", "cbias-prefer-simple" ]
 source: "https://en.wikipedia.org/wiki/Law_of_triviality"
 aliases: ["Law of triviality"]
+excerpt: "We tend to spend more time on figuring out trivial things rather than spending time on the important things."
 ---
 
 We tend to spend more time on figuring out trivial things rather than spending time on the important things.

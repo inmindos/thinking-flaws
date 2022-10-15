@@ -7,6 +7,8 @@ tags:
     "cbias-guess-thoughts"
   ]
 source: "https://en.wikipedia.org/wiki/Extrinsic_incentives_bias"
+excerpt: "We think other people are driven more by extrinsic motivators(like monetary reward) and we are driven more by intrinsic motivators(learning a new skill).
+"
 ---
 
 We think other people are driven more by extrinsic motivators(like monetary reward) and we are driven more by intrinsic motivators(learning a new skill).

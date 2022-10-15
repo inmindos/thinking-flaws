@@ -2,6 +2,7 @@
 title: "Nocebo Effect"
 tags: [ "cognitive-bias","not-enough-meaning","jump-to-conclusions"]
 source: "https://en.wikipedia.org/wiki/Nocebo"
+excerpt: "A nocebo effect is said to occur when negative expectations of the patient regarding a treatment cause the treatment to have a more negative effect than it otherwise would have."
 ---
 
 A nocebo effect is said to occur when negative expectations of the patient regarding a treatment cause the treatment to have a more negative effect than it otherwise would have.

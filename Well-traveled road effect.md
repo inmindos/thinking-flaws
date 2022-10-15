@@ -7,6 +7,7 @@ tags:
     "cbias-known-things-better"
   ]
 source: "https://en.wikipedia.org/wiki/Well_travelled_road_effect"
+excerpt: "Tendency to think that traveling to an unfamiliar place has taken longer - but an equal time journey in very familiar route would feel shorter."
 ---
 
  Tendency to think that traveling to an unfamiliar place has taken longer - but an equal time journey in very familiar route would feel shorter.

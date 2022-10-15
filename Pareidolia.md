@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Pareidolia"
+excerpt: "Seeing a pattern/meaning where there is none."
 ---
 
 Seeing a pattern/meaning where there is none. Eg. seeing a face on the cloud.

@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Affective_forecasting#Projection_bias"
+excerpt: "We forecast our current preference on to a future event."
 ---
 
 We forecast our current preference on to a future event. Caused by mental contamination. Eg. If a student gets bad marks and is sad they think they are not going to enjoy a party two weeks in the future.

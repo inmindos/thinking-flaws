@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Appeal_to_probability"
+excerpt: "Belief that if it's possible, then it's probable."
 ---
 
 Belief that if it's possible, then it's probable. Eg. If I don't bring my umbrella, it will rain for sure.

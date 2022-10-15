@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3153800/"
+excerpt: "Belief that your situation is a zero sum situation and competing - even when there are unlimited resources."
 ---
 
 Belief that your situation is a zero sum situation and competing - even when there are unlimited resources. 

@@ -2,6 +2,7 @@
 title: "Motivated Reasoning"
 tags: ["cognitive-bias","Information-overload","notice-confirmation" ]
 source: "https://en.wikipedia.org/wiki/Motivated_reasoning"
+excerpt: "We tend to accept/believe more easily and with less scrutiny things we think are correct."
 ---
 
 We tend to accept/believe more easily and with less scrutiny things we think are correct. If we encounter an idea that we think is wrong, we subject it to more scrutiny - it has a higher bar to clear for us to accept it.

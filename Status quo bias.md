@@ -2,6 +2,7 @@
 title: "Status quo bias"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-autonomy", "emotional-bias" ]
 source: "https://en.wikipedia.org/wiki/Status_quo_bias"
+excerpt: "We prefer the current situation. We tend to think it is better than other alternatives."
 ---
 
 We prefer the current situation. We tend to think its better than other alternatives.

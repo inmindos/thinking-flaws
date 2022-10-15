@@ -2,6 +2,7 @@
 title: "Just-world hypothesis"
 tags: ["cognitive-bias", "cbias-need-meaning", "cbias-meaning-from-stereotypes"]
 source: "https://en.wikipedia.org/wiki/Just-world_hypothesis"
+excerpt: "Belief that people will get what they deserve. Or Everything happens for a reason."
 ---
 
 Belief that people will get what they deserve. Or Everything happens for a reason.

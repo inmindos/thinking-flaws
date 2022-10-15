@@ -1,5 +1,5 @@
 ---
-title: "Cheerleader effect/group attractiveness effect"
+title: "Cheerleader effect/ Group attractiveness effect"
 tags:
   [
     "cognitive-bias",
@@ -7,6 +7,7 @@ tags:
     "cbias-known-things-better"
   ]
 source: "https://en.wikipedia.org/wiki/Cheerleader_effect"
+excerpt: "Tendency to believe that individuals are more attractive when they are in a group."
 ---
 
 Tendency to believe that individuals are more attractive when they are in a group.

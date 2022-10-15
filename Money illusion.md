@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Money_illusion"
+excerpt: "People mistake the face value of money(the amount of money) with the real value(what it can buy)."
 ---
 
 People mistake the face value of money(the amount of money) with the real value(what it can buy).

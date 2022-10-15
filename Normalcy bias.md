@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Normalcy_bias"
+excerpt: "The brain sometimes ignores multiple warnings signals."
 ---
 
 The brain sometimes ignores multiple warnings signals. This leads to people not believing or minimizing threat warnings. Eg. People ignoring flood warnings.

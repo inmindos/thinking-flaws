@@ -2,6 +2,7 @@
 title: "Serial recall"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-reduce-to-key" ]
 source: "https://en.wikipedia.org/wiki/Recall_%28memory%29#Serial_recall"
+excerpt: "We are able to recollect items or events in the order they are given."
 ---
 
 We are able to recollect items or events in the order they are given. This is important for language use. Some effects that are associated with this...

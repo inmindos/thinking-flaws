@@ -7,6 +7,7 @@ tags:
     "cbias-notice-confirmation"
   ]
 source: "https://en.wikipedia.org/wiki/Confirmation_bias#continued_influence_effect"
+excerpt: "Continue to believe wrong information even after learning that it's wrong."
 ---
 
 Continue to believe wrong information even after learning that it's wrong.

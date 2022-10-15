@@ -7,6 +7,7 @@ tags:
     "cbias-act-fast"
   ]
 source: "https://en.wikipedia.org/wiki/Hard%E2%80%93easy_effect"
+excerpt: "Hard tasks makes you overconfident - and predict higher success probability while easier tasks makes you under confident - and predict lower success."
 ---
 
 Hard tasks makes you overconfident - and predict higher success probability while easier tasks makes you under confident - and predict lower success. 

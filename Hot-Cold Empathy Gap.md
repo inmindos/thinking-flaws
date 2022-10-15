@@ -2,6 +2,7 @@
 title: "Hot-Cold Empathy Gap"
 tags: ["cognition","cbias-info-overload","cbias-notice-primed-repeated"]
 source: "[In The Heat Of The Moment: How Intense Emotions Transform Us](https://www.npr.org/2019/11/27/783495595/in-the-heat-of-the-moment-how-intense-emotions-transform-us)"
+excerpt: "There is a significant difference in how we act in an emotionally charged state(hot state) when compared to your normal state(cold)."
 ---
 
 There is a significant difference in how we act in an emotionally charged state(hot state) when compared to your normal state(cold). When you are in  cold state, you cannot predict how you will act when when in a hot state - you predict using your current state.

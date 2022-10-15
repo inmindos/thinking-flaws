@@ -8,6 +8,7 @@ tags:
   ]
 aliases: [ "Forer Effect" ]
 source: "https://en.wikipedia.org/wiki/Barnum_effect"
+excerpt: "We think that vauge and generic personality descriptions that can apply to a lot of people are very accurate and made specifically for them."
 ---
 
 We think that vauge and generic personality descriptions that can apply to a lot of people are very accurate and made specifically for them. This is how astrology, fortune telling and some personality tests work.

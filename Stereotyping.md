@@ -2,6 +2,7 @@
 title: "Stereotyping"
 tags: ["cognitive-bias","cbias-need-meaning","cbias-meaning-from-stereotypes"]
 source: "https://en.wikipedia.org/wiki/Stereotype"
+excerpt: "General belief about a group of people - and expects that belief to be true of all individuals in the group."
 ---
 
 General belief about a group of people - and expects that belief to be true of all individuals in the group.

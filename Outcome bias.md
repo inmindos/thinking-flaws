@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Outcome_bias"
+excerpt: "Evaluating the quality of a decision after the outcome is known."
 ---
 
 Evaluating the quality of a decision after the outcome is known. 

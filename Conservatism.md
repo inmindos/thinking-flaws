@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Conservatism_%28belief_revision%29"
+excerpt: "People don't easily change existing belief even when presented with new evidence."
 ---
 
 People don't easily change existing belief even when presented with new evidence. They over weigh existing belief and under weigh new evidence.

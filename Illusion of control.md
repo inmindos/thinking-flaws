@@ -7,6 +7,7 @@ tags:
     "cbias-act-fast"
   ]
 source: "https://en.wikipedia.org/wiki/Illusion_of_control"
+excerpt: "We overestimate how much control we have over situations."
 ---
 
 We overestimate how much control we have over situations. Eg. We think we can avoid vehicle accidents if we are careful.

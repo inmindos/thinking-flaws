@@ -7,6 +7,7 @@ tags:
     "cbias-act-fast"
   ]
 source: "https://en.wikipedia.org/wiki/Egocentric_bias"
+excerpt: "We overestimate our own perspective."
 ---
 
 We overestimate our own perspective.

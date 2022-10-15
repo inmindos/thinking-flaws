@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-stereotypes"
   ]
 source: "https://en.wikipedia.org/wiki/Bandwagon_effect"
+excerpt: "Tendency to follow the crowd. Adopting behaviors, practices, attitudes, beliefs only because others are doing it."
 ---
 
 Tendency to follow the crowd. Adopting behaviors, practices, attitudes, beliefs only because others are doing it.

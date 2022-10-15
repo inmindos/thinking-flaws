@@ -7,6 +7,7 @@ tags:
     "cbias-math-simplification"
   ]
 source: "https://en.wikipedia.org/wiki/Subadditivity_effect"
+excerpt: "Belief that probability of the whole is lesser than the sum of probabilities of the parts."
 ---
 
 Belief that probability of the whole is lesser than the sum of probabilities of the parts.

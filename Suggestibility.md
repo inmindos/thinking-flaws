@@ -2,6 +2,7 @@
 title: "Suggestibility"
 tags: [ "cognitive-bias", "cbias-memory", "cbias-memory-edit" ]
 source: "https://en.wikipedia.org/wiki/Suggestibility"
+excerpt: "Suggestibility is tendency to accept or act on the suggestion of others."
 ---
 
 Suggestibility is tendency to accept or act on the suggestion of others. 

@@ -7,6 +7,7 @@ tags:
     "cbias-project-mind-state"
   ]
 source: "https://en.wikipedia.org/wiki/Pro-innovation_bias"
+excerpt: "If we see an innovation at work, we tend to believe that it can be applied everywhere without need of alterations."
 ---
 
 If we see an innovation at work, we tend to believe that it can be applied everywhere without need of alterations. This is especially true if the people who made the innovation are still around and championing the idea.

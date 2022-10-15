@@ -7,6 +7,7 @@ tags:
     "cbias-known-things-better"
   ]
 source: "https://en.wikipedia.org/wiki/In-group_favoritism"
+excerpt: "Favoring people of your in-group over people outside."
 ---
 
 Favoring people of your in-group over people outside.

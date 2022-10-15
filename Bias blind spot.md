@@ -7,6 +7,7 @@ tags:
     "cbias-notice-others-flaws"
   ]
 source: "https://en.wikipedia.org/wiki/Bias_blind_spot"
+excerpt: "It's more difficult to notice biases in ourselves."
 ---
 
 It's more difficult to notice biases in ourselves.

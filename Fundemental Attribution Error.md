@@ -2,6 +2,7 @@
 title: Fundamental Attribution Error
 tags: [ "cognitive-bias","cbias-act-fast","cbias-act-fast-important" ]
 source: "https://en.wikipedia.org/wiki/Fundamental_attribution_error"
+excerpt: "We attribute the reason of our own(or of our friends) failures to the environment, but the failures of others(or our enemies) to their character."
 ---
 
 We attribute the reason of our own(or of our friends) failures to the environment, but the failures of others(or our enemies) to their character.

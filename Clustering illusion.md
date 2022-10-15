@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Clustering_illusion"
+excerpt: "Belief that streaks or clusters in parts of random data are non-random."
 ---
 
 Belief that streaks or clusters in parts of random data are non-random.

@@ -7,6 +7,7 @@ tags:
     "cbias-meaning-from-little-data"
   ]
 source: "https://en.wikipedia.org/wiki/Confabulation"
+excerpt: "Memory error - people sometimes have wrong/distorted memories that they are confident about."
 ---
 
 Memory error - people sometimes have wrong/distorted memories that they are confident about.
