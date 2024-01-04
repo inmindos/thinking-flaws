@@ -22,10 +22,3 @@ Negative stimuli have bigger impact on the mental state
 
 - In social judgments, people consider negative information to be more important to impression formation.
 - People tend to think and reason more about negative events than positive events.
-
-
-
-
-
-
-

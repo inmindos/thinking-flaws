@@ -13,8 +13,6 @@ excerpt: "We think other people are driven more by extrinsic motivators(like mon
 
 We think other people are driven more by extrinsic motivators(like monetary reward) and we are driven more by intrinsic motivators(learning a new skill).
 
-
 ### Consequences
 
 It might help to explain why attaching extrinsic incentives to activities that people are intrinsically motivated to do backfires.
-

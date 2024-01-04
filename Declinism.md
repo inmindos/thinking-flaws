@@ -20,5 +20,3 @@ Belief that a society or institution is becoming worse over time. That the past 
 ### Consequences
 
 Some believe declinism "performs a useful historical function" in that it provides a warning and a goad to action in order to head off and reverse the decline that it says is taking place.
-
-

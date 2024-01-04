@@ -10,5 +10,3 @@ Tendency to seek the positive.
 ### Consequences
 
 On online social networks like Twitter and Instagram, users prefer to share positive news, and are emotionally affected by positive news more than twice as much as they are by negative news. The more positive a person is on social media, the more followers they will get.
-
-

@@ -14,5 +14,4 @@ Social media has a huge role to play in this.
 - Feelings of inferiority/ reduced self esteem
 - Increased anxiety
 - This can lead to depression in extreme cases. 
-- Coping behaviors(eg. substance abuse, self harm, eating disorder, etc)
-
+- Coping behaviours(eg. substance abuse, self harm, eating disorder, etc.)

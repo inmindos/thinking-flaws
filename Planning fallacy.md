@@ -15,7 +15,7 @@ We underestimate time required to finish a task. Result of [[Optimism Bias]]. Th
 ### Cause
 
 - Wishful thinking
-- People make optimistic estimates so as to create a favorable impression with others
+- People make optimistic estimates so as to create a favourable impression with others
 
 ### Consequences
 
@@ -23,5 +23,4 @@ The planning fallacy results in not only time overruns, but also cost overruns a
 
 ### Related
 
-- [[Hofstadter’s law]]
-
+- [[Hofstadter's law]]

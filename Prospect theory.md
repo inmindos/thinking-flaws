@@ -2,9 +2,9 @@
 title: "Prospect theory"
 tags:
   [
-    "behavior",
-    "behavioral-finance",
-    "behavioral-economics"
+    "behaviour",
+    "behavioural-finance",
+    "behavioural-economics"
   ]
 source: "https://en.wikipedia.org/wiki/Prospect_theory"
 excerpt: "We prefer to avoid making a loss over making a profit of the same value."

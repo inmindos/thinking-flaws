@@ -1,5 +1,5 @@
 ---
-title: "Gambler’s fallacy"
+title: "Gambler's fallacy"
 tags:
   [
     "cognitive-bias",

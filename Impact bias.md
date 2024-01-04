@@ -19,7 +19,7 @@ We **overestimate** duration and intensity of future emotional states. Eg. If we
 
 ### Consequences
 
-- These mistaken projections affect people’s ability to make decisions that maximize their happiness.
+- These mistaken projections affect people's ability to make decisions that maximize their happiness.
 - People are influenced by their current emotion when recalling their past emotions. This can explain why people do not learn from their mistakes, and make more accurate forecasts.
 
 ### Related

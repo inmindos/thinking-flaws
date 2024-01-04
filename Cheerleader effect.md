@@ -19,5 +19,3 @@ This effect arises due to the interplay of three cognitive phenomena:
 - The human visual system takes "ensemble representations" of faces in a group.
 - Perception of individuals is biased towards this average.
 - Average faces are more attractive, perhaps due to "averaging out of unattractive idiosyncracies".
-
-

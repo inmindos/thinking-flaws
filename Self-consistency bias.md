@@ -2,10 +2,10 @@
 title: "Self-consistency bias"
 tags: [ "cognitive-bias","not-enough-meaning","cbias-project-mind-state", "memory" ]
 source: "https://sciencebeta.com/self-consistency-bias/"
-excerpt: "We believe that we are consistent in our beliefs, behaviors, options, attitudes, etc."
+excerpt: "We believe that we are consistent in our beliefs, behaviours, options, attitudes, etc."
 ---
 
-We believe that we are consistent in our beliefs, behaviors, options, attitudes, etc. This is a memory bias. 
+We believe that we are consistent in our beliefs, behaviours, options, attitudes, etc. This is a memory bias. 
 
 ### Example
 
@@ -14,5 +14,3 @@ We might go on a blind date and not being thrilled about the date. But years lat
 ### Consequences
 
 Our decisions can substantially change our immediate memory of what we have just perceptually experienced in an attempt to make our experience consistent with our preceding decisions.
-
-

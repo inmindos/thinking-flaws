@@ -22,4 +22,4 @@ A plausible explanation is that a zero-sum heuristic evolved as a cognitive adap
 
 ### Consequences
 
- Social scientists suspect that zero-sum thinking is the basis of psychological barriers to inter-group interaction.  For example, economists blame zero-sum intuitions for public resistance to free trade because people find it hard to comprehend how both trading partners could gain, even though win–win scenarios are a common consequence of trade.
+Social scientists suspect that zero-sum thinking is the basis of psychological barriers to inter-group interaction.  For example, economists blame zero-sum intuitions for public resistance to free trade because people find it hard to comprehend how both trading partners could gain, even though win–win scenarios are a common consequence of trade.

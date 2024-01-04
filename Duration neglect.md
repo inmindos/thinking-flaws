@@ -10,4 +10,3 @@ Our judgment of how unpleasant an experience is does not depend on the duration 
 ### Related
 
 - [[Peak End Rule]]
-

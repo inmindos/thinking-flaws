@@ -11,6 +11,3 @@ excerpt: "A 'reflex' like tendency to reject opposing ideas to what you believe.
 ---
 
 A "reflex" like tendency to reject opposing ideas to what you believe.
-
-
-

@@ -18,4 +18,3 @@ Individuals experience less personal vulnerability because they do not believe t
 ### Related
 
 [[Self serving bias]]
-

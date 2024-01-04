@@ -15,5 +15,3 @@ Perceived difference is not the same as actual difference. We think 10 to 20 is 
 ### Consequences
 
 Weber–Fechner law can explain the increasing levels of public expenditures in mature democracies. Election after election, voters demand more public goods to be effectively impressed; therefore, politicians try to increase the magnitude of this "signal" of competence – the size and composition of public expenditures – in order to collect more votes.
-
-

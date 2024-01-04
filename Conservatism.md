@@ -14,7 +14,4 @@ People don't easily change existing belief even when presented with new evidence
 
 ### Consequences
 
-In finance, evidence has been found that investors under-react to corporate events, consistent with conservatism. This includes announcements of earnings, changes in dividends,etc.
-
-
-
+In finance, evidence has been found that investors under-react to corporate events, consistent with conservatism. This includes announcements of earnings, changes in dividends, etc.

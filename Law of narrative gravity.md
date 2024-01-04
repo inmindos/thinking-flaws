@@ -15,4 +15,3 @@ Public and press likes narratives. More widely accepted a narrative is, the more
 ### Consequences
 
 Facts that might directly rebut the narrative can be easily dismissed.
-

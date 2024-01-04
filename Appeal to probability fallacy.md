@@ -15,4 +15,3 @@ Belief that if it's possible, then it's probable. Eg. If I don't bring my umbrel
 ### Consequences
 
 Murphy's Law: adage or epigram that is typically stated as: "Anything that can go wrong will go wrong." 
-

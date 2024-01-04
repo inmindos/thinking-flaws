@@ -16,7 +16,7 @@ People use stereotypes as shortcuts to make sense of their social contexts, and 
 Stereotyping is among the reasons for prejudicial attitudes. Possible prejudicial effects of stereotypes are:
 
 - Justification of ill-founded prejudices or ignorance
-- Unwillingness to rethink one's attitudes and behavior
+- Unwillingness to rethink one's attitudes and behaviour
 - Preventing some people of stereotyped groups from entering or succeeding in activities or fields
 
 Stereotype threat occurs when people are aware of a negative stereotype about their social group and experience anxiety or concern that they might confirm the stereotype.

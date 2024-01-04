@@ -14,6 +14,5 @@ Belief that the characteristics of one person in a group must be there in all. A
 
 ### Related
 
-- [[Fundemental Attribution Error]]
+- [[Fundamental Attribution Error]]
 - [[Ultimate attribution error]]
-

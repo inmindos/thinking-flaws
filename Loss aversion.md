@@ -1,4 +1,4 @@
---
+---
 title: "Loss aversion"
 tags: [ "cognitive-bias", "cbias-act-fast", "cbias-finish" ]
 source: "https://en.wikipedia.org/wiki/Loss_aversion"

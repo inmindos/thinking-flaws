@@ -19,4 +19,3 @@ People typically underestimate their capacity to generate satisfaction with futu
 ### Consequences
 
 Belief in omniscient, omnipotent, and benevolent external agents, such as God.
-

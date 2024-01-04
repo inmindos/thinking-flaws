@@ -19,6 +19,3 @@ The illusion of transparency is commonly prominent in public speakers. The speak
 ### Related
 
 [[Bystander effect]]
-
-
-

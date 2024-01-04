@@ -17,6 +17,7 @@ It is widely used in fairy tales, films, television, computer games etc. Eg.,Son
 ### Cause
 
 There are three factors that affect anthropomorphism:
+
 - Elicited agent knowledge, or the amount of prior knowledge held about an object and the extent to which that knowledge is called to mind.
 - Effectance, or the drive to interact with and understand one's environment.
 - Sociality, the need to establish social connections.

@@ -20,7 +20,3 @@ One hypothesis states that dates are estimated, not recalled, and these estimate
 
 - Telescoping leads to an over reporting of the frequency of events. This over reporting is because participants include events beyond the period.
 - Marketing firms often use survey data to estimate when consumers will next buy a product. Telescoping errors may bias these estimates and cause faulty marketing campaigns.
-
-
-
-

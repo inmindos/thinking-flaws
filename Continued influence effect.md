@@ -19,4 +19,3 @@ Misinformation can still influence inferences one generates after a correction h
 ### Related
 
 - [[Backfire effect]]
-

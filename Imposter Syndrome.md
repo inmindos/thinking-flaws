@@ -1,7 +1,7 @@
 ---
 title: "Imposter Syndrome"
 tags: ["psychology","permanent-notes"]
-date: "2021-01-05 15:17:38"
+date: "2021-01-05"
 excerpt: "This is a psychological pattern in which an individual doubts their skills, talents or accomplishments and has a persistent internalized fear of being exposed as a 'fraud'."
 ---
 

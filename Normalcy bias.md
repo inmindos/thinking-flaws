@@ -18,6 +18,5 @@ Research suggests that even when the brain is calm, it takes 8–10 seconds to p
 
 ### Consequences
 
- - The normalcy bias can explain why, when the volcano Vesuvius erupted, the residents of Pompeii watched for hours without evacuating. It can explain why thousands of people refused to leave New Orleans as Hurricane Katrina approached.
- - The lack of preparation for disasters often leads to inadequate shelter, supplies, and evacuation plans.
-
+- The normalcy bias can explain why, when the volcano Vesuvius erupted, the residents of Pompeii watched for hours without evacuating. It can explain why thousands of people refused to leave New Orleans as Hurricane Katrina approached.
+- The lack of preparation for disasters often leads to inadequate shelter, supplies, and evacuation plans.

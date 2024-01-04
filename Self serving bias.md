@@ -9,7 +9,6 @@ Our thinking and perception is distorted in ways to enhance our self esteem. To 
 
 ### Related
 
-- [[Fundemental Attribution Error]]
+- [[Fundamental Attribution Error]]
 - [[Egocentric bias]]
 - [[Dunning-Kruger Effect]]
-

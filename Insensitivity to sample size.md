@@ -14,7 +14,3 @@ People intuitively judge samples as having similar properties to their populatio
 ### Related
 
 [[Clustering illusion]]
-
-
-
-

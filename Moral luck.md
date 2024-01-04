@@ -14,4 +14,3 @@ Two people drunk drove - one killed a child. We assign that one more blame even 
 ### Cause
 
 Society is set up in its own interest to protect the community and hence blame is assigned for harm caused.
-

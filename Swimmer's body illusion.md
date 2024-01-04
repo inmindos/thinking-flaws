@@ -1,5 +1,5 @@
 ---
-title: "Swimmer’s body illusion"
+title: "Swimmer's body illusion"
 tags:
   [
     "cognitive-bias",
@@ -19,4 +19,3 @@ People end up striving for unattainable things.
 ### Related
 
 - [[Survivorship bias]]
-

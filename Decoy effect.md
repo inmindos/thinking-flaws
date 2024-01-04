@@ -9,6 +9,5 @@ When deciding between two options, an unattractive third option can change the p
 
 ### Consequences
 
-It is used in marketting to skew consumer preference toward a certain product.
-
+It is used in marketing to skew consumer preference toward a certain product.
 

@@ -10,4 +10,3 @@ The languages you know influence your cognition and world view. If your language
 
 - Linguistic Determinism: Language determines and limits cognition. Considered false by modern linguists.
 - Weak version: Language influences thoughts and cognition.
-

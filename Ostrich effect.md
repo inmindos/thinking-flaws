@@ -11,6 +11,3 @@ excerpt: "Avoiding negative information that can cause discomfort."
 ---
 
 Avoiding negative information that can cause discomfort. Eg. Don't check message because you are expecting some bad news.
-
-
-

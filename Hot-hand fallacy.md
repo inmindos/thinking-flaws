@@ -22,5 +22,4 @@ The hot hand fallacy can lead people to form incorrect assumptions regarding ran
 
 ### Related
 
-- [[Gambler’s fallacy]]
-
+- [[Gambler's fallacy]]

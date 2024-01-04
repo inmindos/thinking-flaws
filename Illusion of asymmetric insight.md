@@ -19,6 +19,3 @@ This bias has been traced to people's tendency to view their own spontaneous or 
 ### Consequences
 
 In interpersonal interactions, we believe we find out more about other people than other people find out about us.
-
-
-

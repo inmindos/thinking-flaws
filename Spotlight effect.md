@@ -14,7 +14,7 @@ We think we are noticed/thought about by others way more than we actually are.
 
 ### Cause
 
-The reason for the spotlight effect is the innate tendency to forget that although one is the center of one's own world, one is not the center of everyone else's. This tendency is especially prominent when one does something atypical.
+The reason for the spotlight effect is the innate tendency to forget that although one is the centre of one's own world, one is not the centre of everyone else's. This tendency is especially prominent when one does something atypical.
 
 ### Consequences
 

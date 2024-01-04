@@ -16,4 +16,3 @@ When we get negative feedback for an outcome we are invested in, we increase eff
 ### Related
 
 - [[Sunk Cost Fallacy]]
-

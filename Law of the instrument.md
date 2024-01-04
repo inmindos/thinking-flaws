@@ -10,4 +10,3 @@ excerpt: "We tend to over-rely on a familiar tool."
 ---
 
 We tend to over-rely on a familiar tool. If all you have is a hammer, then all problems look like a nail.
-

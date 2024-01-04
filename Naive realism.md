@@ -19,6 +19,3 @@ It causes people to exaggerate differences between themselves and others.
 ### Related
 
 - [[Bias blind spot]]
-
-
-

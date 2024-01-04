@@ -14,12 +14,9 @@ The belief that the people in the out-group are very similar to each other. "The
 
 ### Cause
 
-less attention is paid to differences between outgroup members and this leads to perceptions of outgroup homogeneity. 
-
+less attention is paid to differences between out-group members and this leads to perceptions of out-group homogeneity. 
 
 ### Consequences
 
 - People of other races seem to look more alike than members of one's own race. 
 - Leads to stereotyping.
-
-

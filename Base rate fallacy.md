@@ -19,5 +19,3 @@ Consider this problem: Steve is shy - is Steve a librarian or a sales person? Mo
 ### Cause
 
 Research has shown that human probabilistic thinking is fundamentally flawed and error-prone.
-
-

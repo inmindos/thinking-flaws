@@ -17,4 +17,3 @@ In contrast, there is is also **Explicit** stereotype - they are more conscious 
 - [[Group attribution error]]
 - [[Ultimate attribution error]]
 - [[Out-group homogeneity bias]]
-

@@ -10,4 +10,3 @@ Ideally, we should not change something until we understand the purpose behind i
 ### Example
 
 ![Deleting Useless Code](https://i.imgur.com/1FcKXFz.gif)
-

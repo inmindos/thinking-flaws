@@ -11,4 +11,3 @@ We tend to have more defined and articulated goals about parts of our lives whic
 
 - Low Priority: Buy screwdriver - flat head, green handle, manual. Buy by Thursday. Cost under 100 Rs.
 - High Priority: Get a job.
-

@@ -21,5 +21,3 @@ The reason why an individual makes this mistake is that he or she will incorpora
 ### Consequences
 
 The outcome bias has been found to be substantially present in real world situations. A study looking at the evaluation of football players' performance by coaches and journalists found that players' performance is judged to be substantially better—over a whole match—if the player had a lucky goal rather than an unlucky miss 
-
-

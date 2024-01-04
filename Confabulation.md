@@ -14,7 +14,7 @@ Memory error - people sometimes have wrong/distorted memories that they are conf
 
 ### Cause
 
-Most known cases of confabulation are symptomatic of brain damage or dementias, such as aneurysm, Alzheimer's disease,etc.
+Most known cases of confabulation are symptomatic of brain damage or dementias, such as aneurysm, Alzheimer's disease, etc.
 
 ### Consequences
 

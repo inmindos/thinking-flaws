@@ -15,6 +15,3 @@ Lumping a decision to a related but not necessarily causing result. Eg. I miss-s
 ### Consequences
 
 You might be sidetracked from worthwhile goals.
-
-
-

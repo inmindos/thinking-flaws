@@ -7,10 +7,10 @@ tags:
     "cbias-meaning-from-stereotypes"
   ]
 source: "https://en.wikipedia.org/wiki/Authority_bias"
-excerpt: "We believe that the views of an authority figure(Eg. God, Govt, Parent) is more accurate - and let it influence our options."
+excerpt: "We believe that the views of an authority figure(Eg. God, Govt., Parent) is more accurate - and let it influence our options."
 ---
 
-We believe that the views of an authority figure(Eg. God, Govt, Parent) is more accurate - and let it influence our options.
+We believe that the views of an authority figure(Eg. God, Govt., Parent) is more accurate - and let it influence our options.
 
 ### Cause
 

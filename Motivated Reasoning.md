@@ -13,7 +13,7 @@ Say we are an Atheist. If we see a article that says Atheists are found to be mo
 
 ### Cause
 
-The reason for this is that people tend to avoid unflattering/troubling information that contradicts their self image - this behavior helps in maintaining a positive self image. When encountering formation that goes against their currently held beliefs, they have a [[Cognitive Dissonance]] which is uncomfortable.
+The reason for this is that people tend to avoid unflattering/troubling information that contradicts their self image - this behaviour helps in maintaining a positive self image. When encountering formation that goes against their currently held beliefs, they have a [[Cognitive Dissonance]] which is uncomfortable.
 
 ### Consequences
 
