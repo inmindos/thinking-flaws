@@ -1,8 +1,10 @@
 ---
-title: "Cognitive dissonance theory"
-tags: [ "cognitive-dissonance", "psychology" ]
-source: "https://en.wikipedia.org/wiki/Cognitive_dissonance"
-excerpt: "We want to have a sense of cognitive consistency to maintain a positive self image."
+title: Cognitive dissonance
+tags:
+  - cognitive-dissonance
+  - psychology
+source: https://en.wikipedia.org/wiki/Cognitive_dissonance
+excerpt: We want to have a sense of cognitive consistency to maintain a positive self image.
 ---
 
 We want to have a sense of cognitive consistency to maintain a positive self image. 

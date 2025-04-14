@@ -16,4 +16,4 @@ An alternative view is Loss Attention. We are/will be more focused on losses tha
 
 ### Related
 
-- Risk Aversion
+- [[Zero risk bias]]

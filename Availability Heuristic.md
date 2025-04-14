@@ -1,7 +1,7 @@
 ---
 title: "Availability Heuristic"
 tags: [ "cognitive-bias","cbias-info-overload","cbias-notice-primed-repeated", "heuristic" ]
-source: "[[Thinking Fast and Slow, Blinkist]]"
+source: "Thinking Fast and Slow, Book"
 excerpt: "You overestimate the probability of something that you hear more often/remember easily."
 ---
 
